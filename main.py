@@ -4,8 +4,8 @@ import lxml
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-Client_ID = "8e25b53f800c4cf7a666b9f6bd5f65ac"
-client_secret = "bdb0e822b66e4955ac83c8770063ade0"
+Client_ID = "id"
+client_secret = "secret"
 
 time = input("Enter time you wish to travel to in YYYY-MM-DD format:")
 
